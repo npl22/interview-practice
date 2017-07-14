@@ -1,0 +1,34 @@
+h1 {
+  color: #4F4D53;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100px;
+  font-weight: 900;
+}
+
+h2 {
+  color: #E8BE02;
+  font-family: 'Roboto', sans-serif;
+  font-size: 64px;
+  font-weight: 900;
+}
+
+h3 {
+  color: #E8BE02;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+h4 {
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+p {
+  color: #4F4D53;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
